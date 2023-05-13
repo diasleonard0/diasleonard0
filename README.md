@@ -1,10 +1,18 @@
-# Eai, Beleza!?
+# Eai, Beleza!? 👋
 
-## Sou o Leonardo, Desenvolvedor de Software e Aplicativos
+## Me chamo Leonardo, sou Desenvolvedor de Software e Aplicativos. 
 
-### Meus Projetos
+## Tenho [Twitter](https://twitter.com/diasleonard0) e [LinkedIn](linkedin.com/in/leonardodiasdev), me siga lá 🫵
 
-### Um pouco sobre mim
+### Também tenho alguns projetos armazenados aqui no GitHub:
+#### Java
+* [Bank](https://github.com/diasleonard0/Bank)
+* [BarberShop]()
+
+#### Python
+* [Project]()
+
+### Sobre mim
 
 ### O que eu estou estudando agora
 
