@@ -11,7 +11,6 @@
 * [BarberShop](https://github.com/diasleonard0/BarberShop)
 
 #### Python
-* [Project]()
 
 ### Meus estudos
 ☑️ - Concluído; 🔄 - Rever; 👨‍💻 - Estudando; ⏲ - Futuro
