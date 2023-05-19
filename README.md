@@ -11,6 +11,7 @@
 * [BarberShop](https://github.com/diasleonard0/BarberShop)
 
 #### Python
+* [PriceWatch - O Oraculo do Melhor Preço](https://github.com/diasleonard0/PriceWatch---O-Oraculo-do-Melhor-Preco)
 
 ### Meus estudos
 ☑️ - Concluído; 🔄 - Rever; 👨‍💻 - Estudando; ⏲ - Futuro
