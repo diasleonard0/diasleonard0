@@ -12,9 +12,9 @@
 * [Hermes](https://github.com/diasleonard0/Hermes)
 
 #### Python
-* [PriceWatch - O Oraculo do Melhor Preço](https://github.com/diasleonard0/PriceWatch---O-Oraculo-do-Melhor-Preco)
+* [PriceWatch - O Oráculo do Melhor Preço](https://github.com/diasleonard0/PriceWatch---O-Oraculo-do-Melhor-Preco)
 
-### Meus estudos
+### Meus Estudos
 ☑️ - Concluído; 🔄 - Rever; 👨‍💻 - Estudando; ⏲ - Futuro
 * Python - ☑️
 * MySQL - 🔄
@@ -25,5 +25,12 @@
 * Spring Boot - 👨‍💻
 * APIs - ⏲
 * JavaScript - ⏲
+
+### Meus Projetos
+☑️ - Concluído; 🔄 - Rever; 👨‍💻 - Programando; ⏲ - Futuro
+* Bank - ☑️
+* BarberShop - ☑️
+* PriceWatch - O Oráculo do Melhor Preço - 🔄
+* Hermes - 👨‍💻
 
 *“Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.” Esopo*
