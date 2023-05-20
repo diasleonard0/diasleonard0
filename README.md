@@ -9,6 +9,7 @@
 #### Java
 * [Bank](https://github.com/diasleonard0/Bank)
 * [BarberShop](https://github.com/diasleonard0/BarberShop)
+* [Hermes](https://github.com/diasleonard0/Hermes)
 
 #### Python
 * [PriceWatch - O Oraculo do Melhor Preço](https://github.com/diasleonard0/PriceWatch---O-Oraculo-do-Melhor-Preco)
@@ -20,8 +21,9 @@
 * HTML - ☑️
 * CSS - ☑️
 * Git and GitHub - ☑️
-* Java - 👨‍💻
-* Spring Boot - ⏲
+* Java - ☑️
+* Spring Boot - 👨‍💻
 * APIs - ⏲
+* JavaScript - ⏲
 
 *“Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.” Esopo*
