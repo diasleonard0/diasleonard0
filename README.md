@@ -1,6 +1,6 @@
 # Eai, Beleza!? 👋
 
-## Me chamo Leonardo, sou Desenvolvedor Back-End. 
+## Me chamo Leonardo, sou Desenvolvedor
 
 ## Tenho [Twitter](https://twitter.com/diasleonard0) e [LinkedIn](linkedin.com/in/leonardodiasdev), me siga lá 🫵
 ## Tenho [Medium](https://medium.com/@diasleonardo.0404) e [DEV.to](https://dev.to/diasleonard0), onde faço alguns publicações de alguns estudos meus, dá uma conferida para ajudar nois 🫶
