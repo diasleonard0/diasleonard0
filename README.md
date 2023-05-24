@@ -9,7 +9,6 @@
 #### Java
 * [Bank](https://github.com/diasleonard0/Bank)
 * [BarberShop](https://github.com/diasleonard0/BarberShop)
-* [Hermes](https://github.com/diasleonard0/Hermes)
 
 #### Python
 * [PriceWatch - O Oráculo do Melhor Preço](https://github.com/diasleonard0/PriceWatch---O-Oraculo-do-Melhor-Preco)
@@ -31,6 +30,5 @@
 * Bank - ☑️
 * BarberShop - ☑️
 * PriceWatch - O Oráculo do Melhor Preço - 🔄
-* Hermes - 👨‍💻
 
 *“Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.” Esopo*
