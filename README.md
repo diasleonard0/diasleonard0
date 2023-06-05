@@ -1,34 +1,52 @@
-# Eai, Beleza!? 👋
+# Bem-vindo(a) ao meu perfil no GitHub! 👋
 
-## Me chamo Leonardo, e sou Desenvolvedor
+Eai, beleza!? Me chamo Leonardo, e sou um desenvolvedor apaixonado por criar soluções e explorar novas tecnologias.
 
-## Tenho [Twitter](https://twitter.com/diasleonard0) e [LinkedIn](linkedin.com/in/leonardodiasdev), me siga lá 🫵
-## Tenho [Medium](https://medium.com/@diasleonardo.0404) e [DEV.to](https://dev.to/diasleonard0), onde faço alguns publicações de alguns estudos meus, dá uma conferida para ajudar nois 🫶
+## Sobre Mim
 
-### Também tenho alguns projetos armazenados aqui no GitHub (em caso de você ser recruiter, dê uma conferida no README dos projetos, pois lá eu falo um pouco sobre o projeto 😉):
-#### Java
-* [Bank](https://github.com/diasleonard0/Bank)
-* [BarberShop](https://github.com/diasleonard0/BarberShop)
+- 💼 Desenvolvedor
+- 🌱 Aprendendo constantemente e buscando novos desafios
+- 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
-#### Python
-* [PriceWatch - O Oráculo do Melhor Preço](https://github.com/diasleonard0/PriceWatch---O-Oraculo-do-Melhor-Preco)
+## Conecte-se comigo
 
-### Meus Estudos
-☑️ - Concluído; 🔄 - Rever; 👨‍💻 - Estudando; ⏲ - Futuro
-* Python - ☑️
-* MySQL - 🔄
-* HTML - ☑️
-* CSS - ☑️
-* Git and GitHub - ☑️
-* Java - ☑️
-* Spring Boot - 👨‍💻
-* APIs - ⏲
-* JavaScript - ⏲
+- [LinkedIn](https://linkedin.com/in/leonardodiasdev)
+- [Twitter](https://twitter.com/diasleonard0)
+- [Medium](https://medium.com/@diasleonardo.0404)
+- [DEV.to](https://dev.to/diasleonard0)
 
-### Meus Projetos
-☑️ - Concluído; 🔄 - Rever; 👨‍💻 - Programando; ⏲ - Futuro
-* Bank - ☑️
-* BarberShop - ☑️
-* PriceWatch - O Oráculo do Melhor Preço - 🔄
+## Tecnologias e Ferramentas
 
-*“Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar.” Esopo*
+Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
+
+- Linguagens de programação: Python, Java, JavaScript
+- Frameworks e bibliotecas: Django, Flask, Spring Boot, React, Vue.js
+- Banco de dados: MySQL, PostgreSQL, MongoDB
+- Controle de versão: Git, GitHub
+- Cloud: AWS, Google Cloud
+- Outras ferramentas: Docker, Jenkins, JIRA, VS Code
+
+## Projetos Destacados
+
+Aqui estão alguns dos meus projetos mais recentes:
+
+### Nome do Projeto
+
+Breve descrição do projeto, ressaltando as principais características e tecnologias utilizadas.
+
+- [Link para o Projeto](https://github.com/seudesenvelope/nome-do-projeto)
+
+### Outro Projeto
+
+Breve descrição do projeto, ressaltando as principais características e tecnologias utilizadas.
+
+- [Link para o Projeto](https://github.com/seudesenvelope/outro-projeto)
+
+## Contribuição
+
+- ⭐️ Se gostou de algum dos meus projetos, sinta-se à vontade para dar uma estrela!
+- 👥 Contribuições e sugestões são sempre bem-vindas. Abra uma issue ou envie um pull request.
+
+## Citação Favorita
+
+"Ninguém é tão grande que não possa aprender, nem tão pequeno que não possa ensinar." - Esopo
