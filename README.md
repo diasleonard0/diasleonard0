@@ -4,7 +4,7 @@ Eai, beleza!? Me chamo Leonardo, e sou um desenvolvedor apaixonado por criar sol
 
 ## Sobre Mim
 
-- 💼 Desenvolvedor
+- 💼 Desenvolvedor Android
 - 🌱 Aprendendo constantemente e buscando novos desafios
 - 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
 
@@ -19,28 +19,28 @@ Eai, beleza!? Me chamo Leonardo, e sou um desenvolvedor apaixonado por criar sol
 
 Aqui estão algumas das tecnologias e ferramentas com as quais trabalho:
 
-- Linguagens de programação: Python, Java, JavaScript
-- Frameworks e bibliotecas: Django, Flask, Spring Boot, React, Vue.js
+- Linguagens de programação: Kotlin, Python, Java
 - Banco de dados: MySQL, PostgreSQL, MongoDB
 - Controle de versão: Git, GitHub
-- Cloud: AWS, Google Cloud
-- Outras ferramentas: Docker, Jenkins, JIRA, VS Code
+<!--- Frameworks e bibliotecas: Django, Flask, Spring Boot, React, Vue.js-->
+<!--- Cloud: AWS, Google Cloud-->
+<!--- Outras ferramentas: Docker, Jenkins, JIRA, VS Code-->
 
 ## Projetos Destacados
 
 Aqui estão alguns dos meus projetos mais recentes:
 
-### Nome do Projeto
+### Aposta
+
+O Sistema em Kotlin é um programa de apostas que permite adicionar participantes e valores de aposta desejados. No final, o sistema apresenta tabelas com os vencedores e perdedores, além de um resumo indicando se o sistema ganhou ou perdeu dinheiro com as apostas. Ele foi desenvolvido exclusivamente usando a linguagem Kotlin.
+
+- [Link para o Projeto](https://github.com/diasleonard0/Aposta)
+
+<!--### Outro Projeto
 
 Breve descrição do projeto, ressaltando as principais características e tecnologias utilizadas.
 
-- [Link para o Projeto](https://github.com/seudesenvelope/nome-do-projeto)
-
-### Outro Projeto
-
-Breve descrição do projeto, ressaltando as principais características e tecnologias utilizadas.
-
-- [Link para o Projeto](https://github.com/seudesenvelope/outro-projeto)
+- [Link para o Projeto](https://github.com/seudesenvelope/outro-projeto)-->
 
 ## Contribuição
 
